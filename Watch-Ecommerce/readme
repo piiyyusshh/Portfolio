@@ -1,0 +1,6 @@
+# Watches Web Application
+
+This project is a web application designed to showcase various watches, featuring HTML, CSS, and JavaScript. It includes a main landing page (`index.html`), 
+a detailed watch display page (`watch.html`), stylesheets (`style.css`, `style1.css`), and a JavaScript file (`main.js`) for dynamic functionality. 
+The `image` directory contains watch images. The application is responsive, interactive, and styled for a modern look. To view the project,
+open `index.html` in a web browser. There are no external dependencies, making it simple to set up and use. Contributions are welcome.
